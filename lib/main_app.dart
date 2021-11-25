@@ -19,7 +19,7 @@ class _MainAppState extends State<MainApp> {
             curve: Curves.fastOutSlowIn,
             child: const Center(
                 child: Text(
-              'Hi there',
+              'Hey there',
               style: TextStyle(fontSize: 30),
             )),
           ),
